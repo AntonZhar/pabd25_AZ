@@ -1,0 +1,14 @@
+2025-06-02 21:55:33,736 - lifecycle - INFO - launched with params: split=0.2, model_path=C:/Users/241242/PycharmProjects/pabd25_AZ/models/linear_regression_v5.pkl
+2025-06-02 21:55:33,736 - lifecycle - INFO - parsing cian apartments
+2025-06-02 21:57:12,779 - lifecycle - INFO - launched with params: split=0.2, model_path=C:/Users/241242/PycharmProjects/pabd25_AZ/models/linear_regression_v5.pkl
+2025-06-02 21:57:12,779 - lifecycle - INFO - parsing cian apartments
+2025-06-02 21:57:21,258 - lifecycle - INFO - preprocessing data
+2025-06-02 21:57:21,259 - lifecycle - INFO - found files: ['C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\1_2025-06-02_21-22.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-02_21-57_1_2_3_studio.csv']
+2025-06-02 21:57:21,267 - lifecycle - INFO - training model
+2025-06-02 21:57:21,278 - lifecycle - INFO - testing model
+2025-06-02 21:57:21,280 - lifecycle - INFO - Среднеквадратичная ошибка (MSE): 128112997289661.58
+2025-06-02 21:57:21,280 - lifecycle - INFO - Корень из среднеквадратичной ошибки (RMSE): 11318701.22
+2025-06-02 21:57:21,280 - lifecycle - INFO - Коэффициент детерминации R²: 0.741523
+2025-06-02 21:57:21,281 - lifecycle - INFO - Средняя ошибка предсказания: 9400574.86 рублей
+2025-06-02 21:57:21,281 - lifecycle - INFO - Коэффициент при площади: 833964.04
+2025-06-02 21:57:21,281 - lifecycle - INFO - Свободный член: -10652317.74

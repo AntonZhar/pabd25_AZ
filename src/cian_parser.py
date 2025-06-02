@@ -14,7 +14,7 @@ def main():
     Function docstring
     """
     t = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M")
-    n_rooms = 1
+    n_rooms = 1,2,3, 'studio'
     csv_path = f'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw/{n_rooms}_{t}.csv'
     data = moscow_parser.get_flats(
         deal_type="sale",
