@@ -19,7 +19,7 @@ file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelnam
 logger.addHandler(file_handler)
 
 TRAIN_SIZE = 0.2
-MODEL_NAME = "C:/Users/241242/PycharmProjects/pabd25_AZ/models/linear_regression_v5.pkl"
+MODEL_NAME = "C:/Users/241242/PycharmProjects/pabd25_AZ/models/linear_regression_v6.pkl"
 
 raw_data_path = 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw'
 processed_data_path = 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/processed'

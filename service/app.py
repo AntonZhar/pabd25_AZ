@@ -37,7 +37,7 @@ class HouseInfo:
     floor: int = None
 
 # Сохранение модели
-model_path = '../models/linear_regression_model.pkl'
+model_path = 'C:/Users/241242/PycharmProjects/pabd25_AZ/models/linear_regression_v6.pkl'
 
 loaded_model = joblib.load(model_path)
 
