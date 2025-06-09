@@ -36,3 +36,7 @@
 2025-06-06 19:58:57,440 - lifecycle - INFO - Средняя ошибка предсказания: 13501423.15 рублей
 2025-06-06 19:58:57,440 - lifecycle - INFO - Коэффициент при площади: 787232.18
 2025-06-06 19:58:57,440 - lifecycle - INFO - Свободный член: -7162141.27
+2025-06-09 20:56:59,177 - lifecycle - INFO - launched with params: split=0.2, model_path=C:/Users/241242/PycharmProjects/pabd25_AZ/models/linear_regression_v6.pkl
+2025-06-09 20:56:59,177 - lifecycle - INFO - parsing cian apartments
+2025-06-09 20:57:20,669 - lifecycle - INFO - preprocessing data
+2025-06-09 20:57:20,670 - lifecycle - INFO - found files: ['C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\1_2025-06-02_21-22.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-02_21-57_1_2_3_studio.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-06_19-15_1_2_3_studio.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-06_19-51_1_2_3_studio.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-06_19-55_1_2_3_studio.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-06_19-58_1_2_3_studio.csv', 'C:/Users/241242/PycharmProjects/pabd25_AZ/data/raw\\2025-06-09_20-56_1_2_3_studio.csv']

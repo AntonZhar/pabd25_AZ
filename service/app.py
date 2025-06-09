@@ -54,7 +54,7 @@ def process_numbers():
         area = float(data['area'])
         predicted = loaded_model.predict([[area]])
         print(predicted)
-        price = predicted[0]
+        price = predicted[0] #area * 3 * 10^5
         price = int(price)
     except ValueError:
         return {'status': 'error', 'data': 'internal server error'}
